@@ -1,0 +1,10 @@
+// make a complete gitignore file for a node.js project
+# Node.js dependencies
+node_modules/
+# Logs
+logs/
+npm-debug.log*
+# Environment variables
+.env
+# Build output
+dist/
